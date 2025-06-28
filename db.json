@@ -1,0 +1,225 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Mehtab",
+      "email": "mehtab@gmail.com",
+      "password": "123",
+      "isAdmin": true,
+      "cart": [
+        {
+          "product": {
+            "id": "3",
+            "title": "Mens Cotton Jacket",
+            "price": 55.99,
+            "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "4",
+            "title": "Mens Casual Slim Fit",
+            "price": 15,
+            "description": "The color could be slightly different between on the screen and in practice. Suitable for daily wear.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "h3gCybDd7ckahrBvUOM-N",
+      "username": "a",
+      "email": "a@gmail.com",
+      "password": "a",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": "3",
+            "title": "Mens Cotton Jacket",
+            "price": 55.99,
+            "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "1PrPUV_c6SYZWzJgG6g4K",
+      "username": "bbb",
+      "email": "b@gmail.com",
+      "password": "123456@bB",
+      "isAdmin": false,
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Casual Cotton T-Shirt",
+      "price": 19.99,
+      "description": "Soft and breathable cotton t-shirt perfect for daily wear.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Elegant Women's Handbag",
+      "price": 45,
+      "description": "Stylish leather handbag for all occasions.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15,
+      "description": "The color could be slightly different between on the screen and in practice. Suitable for daily wear.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Dragon Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, inspired by mythical dragons and handcrafted in Bali.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "description": "Satisfaction guaranteed. Sparkling design for elegant occasions.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Women's Cotton Leggings",
+      "price": 22.5,
+      "description": "High-waisted stretch leggings for yoga, gym, or casual wear.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Casio Classic Watch",
+      "price": 29.95,
+      "description": "Water-resistant digital watch with LED light and stopwatch.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71r69Y7BSeL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Apple AirPods Pro",
+      "price": 249,
+      "description": "Noise cancellation, wireless charging, and immersive sound.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61ZRU9gnbxL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Samsung Galaxy Buds Live",
+      "price": 169.99,
+      "description": "True wireless earbuds with active noise canceling.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61ZuuqNFdaL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Fitness Smart Band",
+      "price": 39.99,
+      "description": "Tracks steps, heart rate, and sleep with a sleek design.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/41Gr0tZlSPL._AC_US500_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Leather Office Shoes",
+      "price": 59.99,
+      "description": "Formal wear shoes made from genuine leather.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71K9CbNZPsL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Men's Classic Hoodie",
+      "price": 34.99,
+      "description": "Comfortable fleece hoodie perfect for cold seasons.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71g2ednj0JL._AC_UY879_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Women's Wool Sweater",
+      "price": 48,
+      "description": "Premium wool knit sweater for winter fashion.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HqVU3eAEL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Elegant Diamond Ring",
+      "price": 1200,
+      "description": "Certified diamond ring with classic round cut.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Beaded Tassel Earrings",
+      "price": 25,
+      "description": "Handmade boho-style tassel earrings with colorful beads.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71yaQj4MLOL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Digital Drawing Tablet",
+      "price": 89.99,
+      "description": "Compact and responsive drawing tablet for creatives.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71g5N+UEsGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Women's Denim Jacket",
+      "price": 60,
+      "description": "Classic blue denim jacket with a modern cut.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71XYkdkbfiL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Men's Casual Leather Belt",
+      "price": 28,
+      "description": "Durable leather belt with adjustable buckle.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71gk5NqXzLL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Bluetooth Wireless Speaker",
+      "price": 49.99,
+      "description": "Portable speaker with bass boost and 12hr battery life.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71Z6n8T8HGL._AC_UL640_QL65_ML3_.jpg"
+    }
+  ]
+}
